@@ -1,54 +1,25 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/drew-hays-personal-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/drew-hays-personal-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/drew-hays-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/lzledoZLFBQ?style=social)](https://youtu.be/lzledoZLFBQ)
+# Portfolio Website
 
-  <br />
-  <br />
+Welcome to my portfolio website! This is a basic website built using HTML, CSS, and JavaScript to showcase my skills, projects, and achievements.
 
-  <h2 align="center">Drew hays - Personal Portfolio Website</h2>
+🌐 **Live Preview:** [Portfolio Website](https://renuka0630.github.io/Portfolio-website/)
 
-  Drew hays is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+---
 
-  <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
+## 🛠️ Technologies Used
 
-</div>
+- **HTML**: Structure and content of the website.
+- **CSS**: Styling and layout of the website.
+- **JavaScript**: Adding interactivity and functionality.
 
-<br />
+---
 
-### Demo Screeshots
+## 📂 Project Structure
 
-![Drew hays Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Drew hays** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/drew-hays-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/drew-hays-personal-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+```plaintext
+Portfolio-website/
+├── index.html      # Main HTML file
+├── style.css       # CSS for styling
+├── script.js       # JavaScript for interactivity
+├── assets/         # Folder for images, icons, or other resources
+└── README.md       # Project documentation (this file)
